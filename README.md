@@ -1,2 +1,2 @@
-# Online Course App - Flutter
+# Online Course App
 
